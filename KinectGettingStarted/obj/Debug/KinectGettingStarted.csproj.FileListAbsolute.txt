@@ -1,0 +1,5 @@
+D:\vs_wksp\KinectPptController\KinectGettingStarted\bin\Debug\KinectGettingStarted.exe.config
+D:\vs_wksp\KinectPptController\KinectGettingStarted\bin\Debug\KinectGettingStarted.exe
+D:\vs_wksp\KinectPptController\KinectGettingStarted\bin\Debug\KinectGettingStarted.pdb
+D:\vs_wksp\KinectPptController\KinectGettingStarted\obj\Debug\KinectGettingStarted.exe
+D:\vs_wksp\KinectPptController\KinectGettingStarted\obj\Debug\KinectGettingStarted.pdb
